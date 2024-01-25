@@ -1,0 +1,7 @@
+Nombre: Miguel
+ Correo: m.lop.rod.97@gmail.com
+Mensaje: Este es un texto de ejemplo para la práctica 11
+
+Nombre: Miguel
+ Correo: m@mail.com
+Mensaje: Otro mensaje de ejemplo
